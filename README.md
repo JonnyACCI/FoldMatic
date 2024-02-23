@@ -5,7 +5,7 @@ More specifically, this is a computer vision model that is used to identify clot
 
 It was trained and optimized using Edge Impulse to leverage edge computing with quantization. INT8 data is used as an alternative to FP32 to increase effeciency and overcome the storage concerns of using a microprocessor. A USB webcam is used to obtain real-time visuals. 
 
-Through deployment, the model can be run locally on the microcontroller/microprocessor, meaning a network connection will not be necessary to use the model. Note that both a 64-bit OS and 64-bit CPU are necessary for deployment.
+Through deployment, the model can be run locally on the microcontroller/microprocessor, meaning a network connection will not be necessary to use the model. Note that both a 64-bit OS and 64-bit CPU on the embedded system are necessary for deployment.
 
 # Usage
 
