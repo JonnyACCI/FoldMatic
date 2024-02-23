@@ -1,6 +1,6 @@
 
 # Summary
-This repository contains the code to run and deploy an embedded machine learning program (TinyML) on an embedded system (e.g. Arduino, Raspberry PI, Esp32).
+This repository contains the code to run and deploy an embedded machine learning program (TinyML) on an embedded system (e.g. Arduino, Raspberry PI, ESP32).
 More specifically, this is a computer vision model that is used to identify clothing types. These detections are then used to determine what sequence of joint movements are needed to fold the garments.
 
 It was trained and optimized using Edge Impulse to leverage edge computing with quantization. INT8 data is used as an alternative to FP32 to increase effeciency and overcome the storage concerns of using a microprocessor. A USB webcam is used to obtain real-time visuals. 
