@@ -15,9 +15,9 @@ Running locally: https://docs.edgeimpulse.com/docs/running-your-impulse-locally-
 
 # Examples
 
-![](https://media.discordapp.net/attachments/928022919337103393/1210464639155183626/Screenshot_2024-02-23_005413.jpg?ex=65eaa80b&is=65d8330b&hm=c9e6307712b382de452b85bf028e704d9e8d3f804d2d4d8177f7dcb87a9740d8&=&format=webp&width=567&height=733)
+![](https://cdn.discordapp.com/attachments/928022919337103393/1210464639155183626/Screenshot_2024-02-23_005413.jpg?ex=65fd1d0b&is=65eaa80b&hm=70eafbad6b086c4e97d6a764c09339e78f23d931fbb715e0502eb2f0b8576e49&)
 
-![](https://cdn.discordapp.com/attachments/928022919337103393/1210465112176066590/Screenshot_2024-02-23_005604.jpg?ex=65eaa87c&is=65d8337c&hm=2b3c362555b4cc2a146eff7cca7e4e9fa154a10bbaa1fe725db34648bed6dcc1&)
+![](https://cdn.discordapp.com/attachments/928022919337103393/1210465112176066590/Screenshot_2024-02-23_005604.jpg?ex=65fd1d7c&is=65eaa87c&hm=14a2588dcc9fc03307f30e46263e16ed96cb9266765359f44285cf154cf8014c&)
 
 **Note for pants, that the `top` and `bottom` parts had to be identified for accurate folding. A shirt is simply denoted as `shirt`.**
 
